@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Forti
 
-<!--
-**joaopedroforti/joaopedroforti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web  
+🚀 Laravel | PHP | Python | PostgreSQL  
+📍 Brasil  
 
-Here are some ideas to get you started:
+## 🧩 Sobre mim
+Sou desenvolvedor focado em backend e APIs, com experiência em sistemas web,
+banco de dados e automações em Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- PHP / Laravel
+- Python
+- PostgreSQL / MySQL
+- Docker
+- Git
+
+## 📌 Projetos em destaque
+- 🔹 **laravel-simple-api** – API REST com autenticação e CRUD
+- 🔹 **python-file-organizer** – Script para organização automática de arquivos
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/seu-perfil
+- Email: seu@email.com
